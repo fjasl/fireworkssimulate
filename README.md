@@ -3,4 +3,4 @@ for watching
 
 
 
-CREATED BY HAILUOAI NOT ME!!!
+Python 3.8.9 +pygame
